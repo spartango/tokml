@@ -1,0 +1,18 @@
+{
+  "name": "tokml",
+  "version": "0.3.0",
+  "homepage": "https://github.com/mapbox/tokml",
+  "authors": [
+        "Mapbox"
+      ],
+  "main": "./tokml.js",
+  "ignore": [
+        "**/.*",
+        "node_modules",
+        "bower_components",
+        "test",
+        "tests",
+        "demo",
+        "package.json"
+      ]
+}
